@@ -1,7 +1,7 @@
 /*
-  Proyecto Final "Fire Stop", Ing Electronica 2023
-  Sacomani Federico, Tealdi Diego
-  Transmisor version final
+  Proyecto "Fire Stop", 
+  Sacomani Federico, Sacomani Franco
+  Transmisor prueba bateria con sensores
  */
 
  //Librerias utilizadas
